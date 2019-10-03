@@ -57,6 +57,9 @@ You can request access here:
 * [Storyline](https://getstoryline.com) - Create voice apps without coding via visual interface and ready-to-use templates.
 * [BotTalk](https://bottalk.de) - Create voice apps for Amazon Alexa and Google Assistant with simple Yaml Markup.
 
+### Website bots
+* [Airchat](https://airchat.us) - Allows to create sales and marketing website bots. No technical skills required. 
+
 ### Newsletters
 * [How Bot Industry Grow By Up To 100% Month Over Month](https://botcube.co/newsletter) - Five epic actionable bot tricks delivered to your email once a week
 * [Bot Weekly](http://botweekly.com/) - Bot Weekly is a weekly round up of the most interesting chatbot and AI news
@@ -86,15 +89,15 @@ You can request access here:
 * [What's Tech](http://www.theverge.com/2016/4/19/11459188/what-are-bots-explainer-faq-guide-facebook-microsoft-) - Casey Newton from The Verge on the interesting applications of bots
 
 ### Popular examples of bots
-* [Poncho](https://poncho.is/) - Poncho delivers customizable weather forecasts daily via email and text message, helping you plan everything from your commute to your outfit. It's free!
+* [Poncho 💀](https://poncho.is/) - Poncho delivers customizable weather forecasts daily via email and text message, helping you plan everything from your commute to your outfit. It's free!
 * [Swelly](https://www.messenger.com/t/swell.bot/) - Bot to provide the fastest way of asking questions and getting opinions by friends!
 * [Instalocate](https://m.me/instalocate) - Instalocate is a real-time flight tracking bot. You can get flight status, delay alerts, arrival, departure, and gate information
 * [Kayak](https://www.messenger.com/t/90811893045/) - The bot lets users find flights and hotels using conversational language rather than the old-school method of plugging in dates and sifting through hundreds of results
 * [TheScore](https://www.messenger.com/t/theScore/) - theScore brings you real-time sports scores and news from the teams you care about, with deep coverage of MLB, NBA, NFL, NHL and major soccer leagues!
-* [Foxsy](https://www.messenger.com/t/515669261955683/) - Foxsy is your personal matchmaking assistant to find a beautiful and meaningful connection with the right person. And, Foxsy is the first and the best matchmaking Chatbot in the world
+* [Foxsy 💀](https://www.messenger.com/t/515669261955683/) - Foxsy is your personal matchmaking assistant to find a beautiful and meaningful connection with the right person. And, Foxsy is the first and the best matchmaking Chatbot in the world
 * [PayPal](https://chatbottle.co/bots/paypal-for-slack) - With PayPal bot you can pay your friends and teammates on Slack and on your preferred device
 * [Skyscanner](https://join.skype.com/bot/57bfbc6f-1556-46fc-b4fa-41ea57b26df6) - Skyscanner bot for Skype is a passenger flight search engine that allows users to browse for flights via price and location
-* [Visabot](https://www.messenger.com/t/visabot/) - Visabot for Facebook Messenger is an immigration attorney 2.0 Inspired by U.S. top immigration lawyers to deliver the results no lawyer can match
+* [Visabot 💀](https://www.messenger.com/t/visabot/) - Visabot for Facebook Messenger is an immigration attorney 2.0 Inspired by U.S. top immigration lawyers to deliver the results no lawyer can match
 * [Hipmunk](https://www.messenger.com/t/hipmunk/) - Hipmunk chatbot for Facebook Messenger is a super-powered Hipmunk who digs through tons of travel options to help you find the best flights and hotels
 * [Mica, the Hipster Cat Bot](https://hipstercatbot.com) - Mica, the Hipster Cat Bot is a venue recommendation bot that helps you discover the best places worldwide - on FB Messenger, Skype, Kik, Telegram
 * [Nikabot](https://www.nikabot.com) - A Slack bot that keeps track of what your team is doing so you don't have to 
@@ -103,14 +106,13 @@ You can request access here:
 * [ChatBottle](https://chatbottle.co/) - Chatbots Search Engine
 * [There is a bot for that](https://thereisabotforthat.com/) - Search engine for bots
 * [BotList](https://botlist.co/) - App Store for bots
-* [Microsoft Bot Directory](https://bots.botframework.com/) - Bot Directory from Microsoft
-* [Slack bot directory](https://slack.com/apps)
-* [Intento](https://inten.to/) - Search platform for FB Messenger/Telegram/Viber
-* [Telegram Bots Store](https://storebot.me/)
-* [Botpages](https://www.botpages.com/) - Botpages help make it easier for you to discover and find bots
+* [Slack bot directory](https://slack.com/apps) 
 * [ProductHunt bot directory](https://www.producthunt.com/topics/bots)
 * [TeamChat botstore](http://www.teamchat.com/en/bot-store/)
 * [Qwazou Bot](https://www.messenger.com/t/Qwazou) - A Messenger Bot that helps you discover new bots on Messenger.
+
+### Chatbot templates
+ * [Botmakers](https://botmakers.net) - Facebook Messenger chatbot template marketplace. Currently supports [ManyChat](https://botmakers.net/chatbot-templates/explore/manychat), [Airchat](https://botmakers.net/chatbot-templates/explore/airchat),  [MobileMonkey](https://botmakers.net/chatbot-templates/explore/mobilemonkey) and [Chatfuel](https://botmakers.net/chatbot-templates/explore/chatfuel) templates.
 
 ### Messaging platforms
 * [Facebook Messenger](https://developers.facebook.com/docs/messenger-platform)
@@ -141,7 +143,7 @@ You can request access here:
 ### Tools
 
 #### Analytics
-* [Botimize](http://www.botimize.io/) - Optimize your bot for happier customers, scientifically. Track, test, and action in real time. It's as easy as 1 - 2 - 3
+* [Botimize 💀](http://www.botimize.io/) - Optimize your bot for happier customers, scientifically. Track, test, and action in real time. It's as easy as 1 - 2 - 3
 * [BotMetrics](https://bot-metrics.com/) - Bot & Conversation Analytics
 * [Dashbot](https://www.dashbot.io/) - Actionable Bot Analytics. Increase user engagement, acquisition, and monetization through actionable bot analytics. Now supporting Alexa and Google Home
 * [BotAnalytics](https://botanalytics.co/) - Make decisions with historical & real time conversation data. We combine real time conversations with historical ones to help answer the toughest questions about engaged, churnable and retained conversations
@@ -153,11 +155,10 @@ You can request access here:
 * [VoiceLabs](http://voicelabs.co/) - Voice analytics for Alexa and Google Assistant, free and live in 10 minutes
 * [Opearlo Analytics](https://analytics.opearlo.com/) - Track the usage of your Alexa Voice Apps
 * [Witlingo](http://www.witlingo.com/) - Witlingo is a full stack Software as a Service product that enables you to continually learn about your conversations. We provide out-of-the-box Analytics that measure how your conversation is performing for your customers
-* [ChatMetrics](https://chatmetrics.io/) - Push-notifications platform for bots
-* [Wordhop](https://www.wordhop.io/) - Wordhop enables humans and AI to work together to enhance customer service, drive eCommerce transactions, and keep customers engaged in conversation
+* [ChatMetrics 💀](https://chatmetrics.io/) - Push-notifications platform for bots
+* [Wordhop 💀](https://www.wordhop.io/) - Wordhop enables humans and AI to work together to enhance customer service, drive eCommerce transactions, and keep customers engaged in conversation
 * [Dimon](https://dimon.co/) - Dimon enables bot and chatbot owners to identify and fix issues in their bot conversations
-* [ChatbotProxy](https://www.chatbotproxy.com/) - Extensible proxy between your chatbot and providers. It helps debug incoming/outgoing requests using `curl`. And it keeps per page metrics for Facebook Messenger bot apps.
-* [Botmeter](https://www.botfuel.io/features/botmeter) - Follow performance, optimize conversations and understand your customers' behaviors through our analytics application.
+* [ChatbotProxy 💀](https://www.chatbotproxy.com/) - Extensible proxy between your chatbot and providers. It helps debug incoming/outgoing requests using `curl`. And it keeps per page metrics for Facebook Messenger bot apps.
 * [Chatbase](https://chatbase.com) - Analyse and optimize bot conversations. Visualize interaction flow, explore chat conversations, analyze retention and track convertions. 
 
 #### Marketing
@@ -169,7 +170,7 @@ You can request access here:
 
 #### Monetization
 * [RadBots](https://radbots.com/) - Monetization Tools For Bots
-* [waves.ai](https://www.waves.ai/) - Learn, grow & let your goals become reality
+* [waves.ai 🤖](https://www.waves.ai/) - Learn, grow & let your goals become reality
 * [cashbot.ai](https://cashbot.ai/?fref=gc) - Monetization platform for chat & voice experiences that leverages the rich context of conversation to make relevant, timely product recommendations which lead directly to sales conversions via mobile & traditional E-Commerce.
 
 #### Prototyping
@@ -189,11 +190,7 @@ You can request access here:
 
 #### Testing
 * [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
-* [Dimon](https://dimon.co/) - Dimon enables bot and chatbot owners to identify and fix issues in their bot conversations
 * [Chatbottest](http://chatbottest.com/) - ChatbotTest is an open source guide that helps you identify chatbot's design issues under 7 different categories.
-
-#### Monitoring
-* [Dimon](https://dimon.co/) - Monitor your production bot with predefined user scenarios
 
 #### Internationalization
 * [Cyrano](http://cyrano.unbabel.com/) - Make your bot multilingual. Unbabel's Cyrano API instantly enables your bot to chat in more than 20 languages with human quality
@@ -234,6 +231,7 @@ You can request access here:
 #### Other
 
 * [BotCube Telegram channel](https://t.me/botcube) - 🤖 Bots, messaging apps, conversational interfaces, AI & ML — hot reviews & insights from industry experts 🤖
+* [Botmakers blog](https://blog.botmakers.net) - Official blog about bots and Messenger Marketing by Botmakers
 * [Chatbots Magazine](https://chatbotsmagazine.com/) - Chatbots, AI, NLP, Facebook Messenger, Slack, Telegram, and more
 * [BotWiki](https://botwiki.org/) - Botwiki is an open catalog of friendly, useful, artistic online bots, and tools and tutorials that can help you make them
 * [TopBots](http://www.topbots.com/) - We scour the net for the latest content about bots & artificial intelligence. Be the FIRST to know & understand technical breakthroughs that change how we live and work
@@ -245,13 +243,12 @@ You can request access here:
 
 ### Job boards
 * [BotMakers](https://botmakers.net/) - The best place to hire chatbot developers.
-* [BotCompass](https://botcompass.co) - 🤖 Chatbot companies and developers to power up your business 🤖
+* [BotCompass 💀](https://botcompass.co) - 🤖 Chatbot companies and developers to power up your business 🤖
 * [Botunity](http://botunity.co/) - Find a job you love in the Bot & AI Industry. Your next opportunity could be with one of these leading companies. Apply today
 * [BotJobs](http://botjobs.io/) - A job board focused on the Bot Industry
 * [Botified](https://botified.io/) - Hire Quality Bot Developers And Find Bot Jobs
 * [ChatbotJobs](https://chatbotjobs.co/) - Find the remote or onsite job related to bots, AI, NLP, machine learning, data, neural networks
 * [BotGig](http://www.botgig.com/) - Hire a top-tier development team to build your chatbot
-* [BotMakers Projects](https://www.facebook.com/groups/439131813146973) - A Facebook group with Chatbot Development projects curated by BotMakers.
 
 ### NLP (tools, engines, SDKs, frameworks)
 * [wit.ai](https://wit.ai/) - Natural Language Service for Developers from Facebook
@@ -266,8 +263,9 @@ You can request access here:
 * [DeepPavlov](https://deeppavlov.ai) - An open source library for deep learning end-to-end dialog systems and chatbots.
 
 ### Bot building platforms
+* [Airchat](https://airchat.us) - The easiet way to create sales and marketing bots for websites with no coding skills needed.
 * [ManyChat](https://manychat.com/) - Create a Facebook bot to engage your audience. Send news and content, automate interaction and much more. Easy 2-minute setup. No coding required. Free
-* [PullString](https://www.pullstring.com) - Offers a professional authoring environment, hosted AI and machine learning runtime, and integrated conversation analytics to enterprises, agencies, and startups across verticals as diverse as entertainment, customer service, travel, automotive, health and fitness, finance, human resources, and IoT.
+* [PullString 💀](https://www.pullstring.com) - Offers a professional authoring environment, hosted AI and machine learning runtime, and integrated conversation analytics to enterprises, agencies, and startups across verticals as diverse as entertainment, customer service, travel, automotive, health and fitness, finance, human resources, and IoT.
 * [BLiP](http://blip.ai/en/) - BLiP helps you serve, engage and sell through conversations on your site and app, Facebook Messenger, Workplace, SMS, Email, Telegram, Twitter, Skype and other popular apps. All you need to create, manage and evolve your chatbot on the same platform.
 * [Chatfuel](https://chatfuel.com/) - Build a Facebook bot without coding. Launch a full-featured chatbot in 7 minutes
 * [Sequel](https://www.onsequel.com/) - Create messenger bots with personality. Engage your fans and followers with intimate conversational experiences. It only takes minutes to build
@@ -306,7 +304,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [Mindiq](https://www.mindiq.in/) - Facebook Bots
 * [Gupshup](https://www.gupshup.io/) - platform for building and testing bots
 * [PandortaBots](http://www.pandorabots.com/)
-* [Recime](https://www.recime.io/) - We empower developers to quickly & effectively create serverless bots and deploy them across many channels at once.
+* [Smartloop (Recime)](https://smartloop.ai/) - We empower developers to quickly & effectively create serverless bots and deploy them across many channels at once.
 * [MachinaBot](https://machinabot.com/is) - A Smart Relay Gateway Designed for Bots.
 * [Coren](https://heycoren.com/?fref=gc) - Coren allows both businesses and individuals to easily build & use chatbots to automate repetitive tasks, in an innovative way.
 * [JetLink](https://jetlink.io/) - AI powered messaging platform for easy commerce and better support.
@@ -316,6 +314,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * [CONVRG](https://www.convrg.io) - Enterprise AI-powered chatbot and messaging experience platform providing personalized conversations that live on FMB, Kik, Webchat, Alexa and Google Home, integrates with CMS systems and E-Commerce platforms.
 * [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)
 * [eXvisory](https://exvisory.ai) - Visual framework for creating 'deep logic' product support AI chatbots able to match the BEST human troubleshooters
+* [MobileMonkey](https://mobilemonkey.com) - DIY Facebook Messenger bots platform
 
 ### Personal assistants
 * [x.ai](https://x.ai/) - x.ai is a personal assistant who schedules meetings for you
@@ -509,7 +508,7 @@ There is free and paid plans. Interface is Turkish but bots can work any latin l
 * **Seth Louey** - ProductHunt 2016 Maker of the Year Nominee; Co-founder of BotList. [Twitter](https://twitter.com/sethlouey) [Linkedin](https://www.linkedin.com/in/sethlouey/) [ProductHunt](https://www.producthunt.com/@sethlouey) [Medium](https://medium.com/@sethlouey)
 * **Crystal Rose** - Founder of Sensay. [Twitter](https://twitter.com/crystalrose) [Linkedin](https://www.linkedin.com/in/rosecrystal/)
 * **Pavel Doronin** - Founder of AI Today/AI Community - RU/Chatbots Community [Facebook](https://www.facebook.com/pavdor)
-* **Alexander Gamanyuk** - Founder of [ChatBottle](https://chatbottle.co/) & [BotMakers](https://botmakers.net/) [Linkedin](https://www.linkedin.com/in/agamanyuk/) [Medium](https://medium.com/@agamanyuk) [ProductHunt](https://www.producthunt.com/@agamanyuk) [Twitter](https://twitter.com/agamanyuk)
+* **Alexander Gamanyuk** - Founder of [ChatBottle](https://chatbottle.co/) & [BotMakers](https://botmakers.net/) & [Airchat](https://airchat.us) [Linkedin](https://www.linkedin.com/in/agamanyuk/) [Medium](https://medium.com/@agamanyuk) [Twitter](https://twitter.com/agamanyuk)
 * **Dan Gailey** - Founder and CEO of RadBots [Twitter](https://twitter.com/dpg) [Facebook](https://www.facebook.com/dpgailey) [Linkedin](https://www.linkedin.com/in/dangailey/)
 * **Barbara Ondrisek** - Co-Founder & CEO of Chatbots Agency, creator and cat mother of Mica, the Hipster Cat Bot [Twitter](https://twitter.com/electrobabe) [Facebook](https://facebook.com/electrobabe) [Linkedin](https://linkedin.com/in/electrobabe/)
 * **Issam Hakimi** - Founder and CEO of Broid [Twitter](https://twitter.com/killix) [ProductHunt](https://www.producthunt.com/@killix) [Linkedin](https://www.linkedin.com/in/issamhakimi)
