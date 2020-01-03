@@ -86,6 +86,7 @@ You can request access here:
 * [What's Tech](http://www.theverge.com/2016/4/19/11459188/what-are-bots-explainer-faq-guide-facebook-microsoft-) - Casey Newton from The Verge on the interesting applications of bots
 
 ### Popular examples of bots
+* [Tarta.ai](https://tarta.ai/) - Tarta bot monitors jobs and match job seekers with the best ones. Also Tarta.ai schedules an interview with recruiters and even helps to pass the interview.
 * [Poncho](https://poncho.is/) - Poncho delivers customizable weather forecasts daily via email and text message, helping you plan everything from your commute to your outfit. It's free!
 * [Swelly](https://www.messenger.com/t/swell.bot/) - Bot to provide the fastest way of asking questions and getting opinions by friends!
 * [Instalocate](https://m.me/instalocate) - Instalocate is a real-time flight tracking bot. You can get flight status, delay alerts, arrival, departure, and gate information
